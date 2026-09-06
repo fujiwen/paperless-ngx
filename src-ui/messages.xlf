@@ -5977,46 +5977,53 @@
           <context context-type="linenumber">468,469</context>
         </context-group>
       </trans-unit>
+      <trans-unit id="7160869275743386191" datatype="html">
+        <source>This action runs in the background, so the suggestions may be applied after the other actions of this workflow have finished.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
+          <context context-type="linenumber">469,470</context>
+        </context-group>
+      </trans-unit>
       <trans-unit id="3473589590476379802" datatype="html">
         <source>Apply suggestions for</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
-          <context context-type="linenumber">471,472</context>
+          <context context-type="linenumber">472,473</context>
         </context-group>
       </trans-unit>
       <trans-unit id="6859826074028847234" datatype="html">
         <source>Suggestions for fields that are not selected are discarded.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
-          <context context-type="linenumber">476,477</context>
+          <context context-type="linenumber">477,478</context>
         </context-group>
       </trans-unit>
       <trans-unit id="1137167921211640884" datatype="html">
         <source>Create missing items</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
-          <context context-type="linenumber">486,487</context>
+          <context context-type="linenumber">487,488</context>
         </context-group>
       </trans-unit>
       <trans-unit id="449779688394460071" datatype="html">
         <source>Create suggested tags, correspondents and document types that do not exist yet.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
-          <context context-type="linenumber">488,489</context>
+          <context context-type="linenumber">489,490</context>
         </context-group>
       </trans-unit>
       <trans-unit id="5192325026233872238" datatype="html">
         <source>Overwrite existing values</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
-          <context context-type="linenumber">496,497</context>
+          <context context-type="linenumber">497,498</context>
         </context-group>
       </trans-unit>
       <trans-unit id="9010697250406492150" datatype="html">
         <source>Apply suggestions even if the document already has a value. Tags are always added, never replaced.</source>
         <context-group purpose="location">
           <context context-type="sourcefile">src/app/components/common/edit-dialog/workflow-edit-dialog/workflow-edit-dialog.component.html</context>
-          <context context-type="linenumber">498,499</context>
+          <context context-type="linenumber">499,500</context>
         </context-group>
       </trans-unit>
       <trans-unit id="4626030417479279989" datatype="html">
